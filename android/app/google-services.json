@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024808321845",
+    "project_id": "infosec-571a3",
+    "storage_bucket": "infosec-571a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024808321845:android:ec69715f9d222f1ad9427c",
+        "android_client_info": {
+          "package_name": "com.example.pass_mana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGzg89gMjmAWtwQkLbpc2VjKE9PiKsiy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
