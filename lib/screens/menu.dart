@@ -45,13 +45,6 @@ class _MenuState extends State<Menu> {
                     ),
                   ),
                   ListTile(
-                    title: Text('refresh'),
-                    onTap: () async {
-                      setState(() {});
-                      ();
-                    },
-                  ),
-                  ListTile(
                     title: Text('Add new Profile'),
                     onTap: () {
                       Navigator.push(
